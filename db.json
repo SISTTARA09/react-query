@@ -1,0 +1,100 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Women",
+      "alterEgo": "Pricess Diana"
+    },
+    {
+      "name": "Sisttara",
+      "alterEgo": "Yassine El Attari",
+      "id": 1700131777478
+    },
+    {
+      "name": "",
+      "alterEgo": "",
+      "id": 1700134750234
+    },
+    {
+      "name": "Finished  Pull  And Push",
+      "alterEgo": "",
+      "id": 1700134752873
+    },
+    {
+      "name": "yassine El attari",
+      "alterEgo": "",
+      "id": 1700134781649
+    },
+    {
+      "name": "fatiha el hamrity",
+      "alterEgo": "f",
+      "id": 1700208357642
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Salma"
+    },
+    {
+      "id": 2,
+      "name": "Salma"
+    },
+    {
+      "id": 3,
+      "name": "Salma"
+    }
+  ],
+  "youtubers": [
+    {
+      "id": "omar@gmail.com",
+      "chanelId": "omaryt"
+    }
+  ],
+  "chanels": [
+    {
+      "id": "omaryt",
+      "courses": [
+        "js",
+        "css",
+        "React"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "blue"
+    },
+    {
+      "id": 3,
+      "label": "orange"
+    },
+    {
+      "id": 4,
+      "label": "yellow"
+    },
+    {
+      "id": 5,
+      "label": "aqua"
+    },
+    {
+      "id": 6,
+      "label": "aquamarine"
+    }
+  ]
+}
